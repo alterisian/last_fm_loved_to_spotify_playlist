@@ -5,3 +5,10 @@ This application will allow you to add your Last.fm loved Tracks to a Spotify Pl
 
 This may happen at a certain frequency, i.e. Monthly, and have a customisable Playlist name.
 
+Refs
+
+https://developer.spotify.com/en/libspotify/docs/examples.html
+
+http://last.fm/api
+
+LovedTracks: http://www.last.fm/api/show?service=329
